@@ -1,0 +1,1 @@
+# Part 1: Creating a Hello World TypeScript Project 
